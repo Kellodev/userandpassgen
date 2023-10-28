@@ -14,6 +14,3 @@ for i in range(int(usernamelenght)):
     username += random.choice(chars)
 
 print("PASS: " + password + " - USERNAME: " + username)
-
-# closes in cmd idk why lol:D (DONT ASK!)
-time.sleep(99999)
